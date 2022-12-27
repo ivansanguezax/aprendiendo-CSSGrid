@@ -2,7 +2,7 @@
 
 CSS Grid Layout (also known as "Grid"), is a two-dimensional grid-based layout system that aims to do nothing less than completely change the way we design grid-based user interfaces.
 
-### Tools we will use 🛠️ 
+## Tools we will use 🛠️ 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 
 ## For a complete guide check the following post ➡️  
